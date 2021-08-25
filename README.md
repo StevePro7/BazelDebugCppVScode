@@ -24,4 +24,4 @@ bazel version
 
 Visual Studio code should break at breakpoint and you should be able to debug step through the code!
 
-![Debug step through C/C++ code built using Bazel in Visual Studio Code on Ubuntu Linux](Image/deubg.png "Debug step through C/C++ code built using Bazel in Visual Studio Code on Ubuntu Linux")
+![Debug step through C/C++ code built using Bazel in Visual Studio Code on Ubuntu Linux](Image/BazelDebug.png "Debug step through C/C++ code built using Bazel in Visual Studio Code on Ubuntu Linux")
