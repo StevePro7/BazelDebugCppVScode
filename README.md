@@ -13,7 +13,7 @@ bazel version
 ```
 
 * Launch Visual Studio Code
-* Install [CoreLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) extension
+* Install [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) extension
 * Open either HelloC or HelloCpp folder
 * Open main file
 * Build [.vscode/tasks.json]
