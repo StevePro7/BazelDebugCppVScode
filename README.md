@@ -1,4 +1,4 @@
-# Bazel debug C/++ in VS Code built using Bazel on Ubuntu Linux
+# Bazel Debug C/C++ in VS Code on Ubuntu Linux
 Debug simple C/C++ Hello World program built using Bazel in Visual Studio Code on Ubuntu Linux
 
 Reference: 
